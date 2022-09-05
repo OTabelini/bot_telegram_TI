@@ -89,5 +89,6 @@ Please, select one option above to proceed the information.
 """
     bot.send_message(message.chat.id, text) 
 
-# This function are responsable to make the bot responsivem check that and other functions that I use here in the documentation of telebot
+# This function are responsable to make the bot responsivem check that and other functions that I use here in the documentation of telebot!
 bot.polling()
+ 
